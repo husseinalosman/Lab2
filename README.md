@@ -1,1 +1,1 @@
-# Lab2
+# Java classes for Lab2
